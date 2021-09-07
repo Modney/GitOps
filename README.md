@@ -1,3 +1,3 @@
 # GitOps
-## Kubernetesy
+## Kubernetes
 
